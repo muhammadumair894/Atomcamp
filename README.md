@@ -12,6 +12,7 @@ Helping Material Notebooks
 *  Understanding and applying stemming and lemmatization
 *  Introduction to N-gram language models
 *  Introduction to vectors in NLP: Bag of Words, Count Vectorizer, and TF-IDF
+*  Assignment: Text Preprocessing and Feature Engineering with Count Vectorizer and TF-IDF
 
 **Notebook** [Kaggle Link](https://www.kaggle.com/code/immuhammadumair/text-representation-and-language-models)
 ---
