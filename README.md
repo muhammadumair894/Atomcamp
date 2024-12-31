@@ -6,7 +6,7 @@ Helping Material Notebooks
 *  Techniques for text normalization
 *  Basics of tokenization and stopword removal
 
-**Notebook** [Kaggle Link](https://www.kaggle.com/code/immuhammadumair/introduction-to-nlp-and-text-processing)
+**Notebook** *[Kaggle Link](https://www.kaggle.com/code/immuhammadumair/introduction-to-nlp-and-text-processing)*
 ---
 **Text Representation and Language Models**
 *  Understanding and applying stemming and lemmatization
@@ -14,7 +14,7 @@ Helping Material Notebooks
 *  Introduction to vectors in NLP: Bag of Words, Count Vectorizer, and TF-IDF
 *  *Assignment*: Text Preprocessing and Feature Engineering with Count Vectorizer and TF-IDF
 
-**Notebook** [Kaggle Link](https://www.kaggle.com/code/immuhammadumair/text-representation-and-language-models)
+**Notebook** *[Kaggle Link](https://www.kaggle.com/code/immuhammadumair/text-representation-and-language-models)*
 ---
 **Markov Models and Text Classification Fundamentals**
 *  Basics of Markov models in NLP
@@ -22,5 +22,5 @@ Helping Material Notebooks
 *  Techniques for evaluating language models: probability smoothing and performance metrics
 *  Introduction to Naive Bayes and Sentiment Classification
   
-**Notebook** [Kaggle Link](https://www.kaggle.com/code/immuhammadumair/markov-models-and-text-classification-fundamentals)
+**Notebook** *[Kaggle Link](https://www.kaggle.com/code/immuhammadumair/markov-models-and-text-classification-fundamentals)*
 ---
