@@ -32,7 +32,8 @@ Helping Material Notebooks
 ---
 
 **TF-IDF**
-*  Assigning weights 
+*  Assigning weights
+*  Reading Files (pdf, ppt, doc, etc) with Tika 
 
 **Notebook** *[Kaggle Link]([/kaggle/working/](https://www.kaggle.com/code/immuhammadumair/tfidf))*
 ---
