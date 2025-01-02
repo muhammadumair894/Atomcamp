@@ -30,3 +30,9 @@ Helping Material Notebooks
 
 **Notebook** *[Kaggle Link]([/kaggle/working/](https://www.kaggle.com/code/immuhammadumair/advanced-classifiers-assignment))*
 ---
+
+**TF-IDF**
+*  Assigning weights 
+
+**Notebook** *[Kaggle Link]([/kaggle/working/](https://www.kaggle.com/code/immuhammadumair/tfidf))*
+---
