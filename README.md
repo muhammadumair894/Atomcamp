@@ -43,5 +43,6 @@ Helping Material Notebooks
 *  Building Applications with Word Embeddings 
 
 **Notebook** *[Kaggle Link- Word Embeddings]([/kaggle/working/](https://www.kaggle.com/code/immuhammadumair/word-embeddings))*
+
 **Notebook** *[Kaggle Link- Top2vec]([/kaggle/working/](https://www.kaggle.com/code/immuhammadumair/top2vec))*
 ---
