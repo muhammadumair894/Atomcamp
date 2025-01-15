@@ -29,20 +29,20 @@ Helping Material Notebooks
 *  Generative vs. discriminative classifiers
 *  Understanding vector semantics 
 
-**Notebook** *[Kaggle Link]([/kaggle/working/](https://www.kaggle.com/code/immuhammadumair/advanced-classifiers-assignment))*
+**Notebook** *[Kaggle Link](https://www.kaggle.com/code/immuhammadumair/advanced-classifiers-assignment))*
 ---
 
 **TF-IDF**
 *  Assigning weights
 *  Reading Files (pdf, ppt, doc, etc) with Tika 
 
-**Notebook** *[Kaggle Link]([/kaggle/working/](https://www.kaggle.com/code/immuhammadumair/tfidf))*
+**Notebook** *[Kaggle Link](https://www.kaggle.com/code/immuhammadumair/tfidf)*
 ---
 **Word Embeddings**
 *  Creating Word Embeddings
 *  Building Applications with Word Embeddings 
 
-**Notebook** *[Kaggle Link- Word Embeddings]([/kaggle/working/](https://www.kaggle.com/code/immuhammadumair/word-embeddings))*
-
-**Notebook** *[Kaggle Link- Top2vec]([/kaggle/working/](https://www.kaggle.com/code/immuhammadumair/top2vec))*
+**Notebook** *[Kaggle Link-Word Embeddings](https://www.kaggle.com/code/immuhammadumair/word-embeddings)*
+---
+**Notebook** *[Kaggle Link-Top2vec](https://www.kaggle.com/code/immuhammadumair/top2vec)*
 ---
