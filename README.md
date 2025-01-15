@@ -46,3 +46,13 @@ Helping Material Notebooks
 ---
 **Notebook** *[Kaggle Link-Top2vec](https://www.kaggle.com/code/immuhammadumair/top2vec)*
 ---
+**LLM**
+*  Building LLM from scratch
+*  Visualization
+
+**Notebook** *[Kaggle Link](https://www.kaggle.com/code/immuhammadumair/transformer-from-scratch-1)*
+---
+**Notebook** *[Visulization Transformers](https://bbycroft.net/llm)*
+---
+**Notebook** *[Paper: Attention is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)*
+---
