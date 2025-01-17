@@ -56,3 +56,14 @@ Helping Material Notebooks
 ---
 **Notebook** *[Paper: Attention is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)*
 ---
+**Training and Fine-Tuning LLMs**
+*  Techniques for training large language models
+*  Fine-tuning pre-trained LLMs for specific tasks
+**Notebook** *[Kaggle Notebook- Finetuning LM using Transformers](https://www.kaggle.com/code/immuhammadumair/fine-tunning-gpt2)*
+---
+**Notebook** *[Kaggle Notebook- Finetuning LLM using Unsloth](https://www.kaggle.com/code/immuhammadumair/phi-4-conversational)*
+---
+**Notebook** *[Kaggle Notebook- LLM for CPU](https://www.kaggle.com/code/immuhammadumair/gpt4all)*
+---
+
+
