@@ -71,7 +71,7 @@ Helping Material Notebooks
 *  Building a semantic Search app
 *  Building a RAG application using groq API, cromadb and huggingface embedding
   
-**Notebook** *[Kaggle Notebook- LLM for CPU](https://www.kaggle.com/code/immuhammadumair/langchain)*
+**Notebook** *[Kaggle Notebook- Langchain RAG chromaDB](https://www.kaggle.com/code/immuhammadumair/langchain)*
 ---
 
 
