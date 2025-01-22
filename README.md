@@ -67,4 +67,11 @@ Helping Material Notebooks
 **Notebook** *[Kaggle Notebook- LLM for CPU](https://www.kaggle.com/code/immuhammadumair/gpt4all)*
 ---
 
+**MLOPs - LangChain**
+*  Building a semantic Search app
+*  Building a RAG application using groq API, cromadb and huggingface embedding
+  
+**Notebook** *[Kaggle Notebook- LLM for CPU](https://www.kaggle.com/code/immuhammadumair/langchain)*
+---
+
 
