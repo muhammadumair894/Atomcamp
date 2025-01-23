@@ -74,4 +74,16 @@ Helping Material Notebooks
 **Notebook** *[Kaggle Notebook- Langchain RAG chromaDB](https://www.kaggle.com/code/immuhammadumair/langchain)*
 ---
 
+***LangChain Memory | Llamaindex***
+*  Langchain Application QA on SQL DB
+*  Laangchain with langgraph memory
+*  Llamaindex Dataloaders | Llamaparser
+
+**Notebook** *[Kaggle Notebook- Langchain QA on SQL DB](https://www.kaggle.com/code/immuhammadumair/qa-on-sql)*
+---
+**Notebook** *[Kaggle Notebook- llama-pack-resume-screener](https://www.kaggle.com/code/immuhammadumair/llama-pack-resume-screener-v1)*
+---
+**Notebook** *[Kaggle Notebook- llama-pack-resume-screener](https://www.kaggle.com/code/immuhammadumair/llama-pack-resume-screener-v1)*
+---
+
 
