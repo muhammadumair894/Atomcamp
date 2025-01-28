@@ -86,4 +86,9 @@ Helping Material Notebooks
 **Notebook** *[Kaggle Notebook- llama-pack-resume-screener](https://www.kaggle.com/code/immuhammadumair/llama-pack-resume-screener-v1)*
 ---
 
+***FastAPI***
+*  Getting started with FastAPI
+*  AI Endpoints using FastAPI
 
+**Notebook** *[Kaggle Notebook- FastAPI](https://www.kaggle.com/code/immuhammadumair/fastapi)*
+---
