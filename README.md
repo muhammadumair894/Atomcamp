@@ -92,3 +92,9 @@ Helping Material Notebooks
 
 **Notebook** *[Kaggle Notebook- FastAPI](https://www.kaggle.com/code/immuhammadumair/fastapi)*
 ---
+***FastAPI RAG Docker***
+*  RAG Endpoints file Upload and QA
+*  Docker Container for Deploying FastAPI endpoints
+
+**Notebook** *[Kaggle Notebook- FastAPI](https://www.kaggle.com/code/immuhammadumair/fastapi-docker)*
+---
