@@ -50,9 +50,14 @@ Helping Material Notebooks
 *  Building LLM from scratch
 *  Visualization
 
+
+****
+**Visulization** *[Visulization](https://poloclub.github.io/transformer-explainer/)*
 **Notebook** *[Kaggle Link](https://www.kaggle.com/code/immuhammadumair/transformer-from-scratch-1)*
 ---
-**Notebook** *[Visulization Transformers](https://bbycroft.net/llm)*
+**Notebook** *[Kaggle Link Detail Article](https://www.kaggle.com/discussions/general/493003)*
+---
+**LLM Visulization** *[Visulization Transformers](https://bbycroft.net/llm)*
 ---
 **Notebook** *[Paper: Attention is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)*
 ---
