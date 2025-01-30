@@ -55,7 +55,7 @@ Helping Material Notebooks
 **Visulization** *[Visulization](https://poloclub.github.io/transformer-explainer/)*
 **Notebook** *[Kaggle Link](https://www.kaggle.com/code/immuhammadumair/transformer-from-scratch-1)*
 ---
-**Notebook** *[Kaggle Link Detail Article](https://www.kaggle.com/discussions/general/493003)*
+**Notebook** *[Kaggle Link detailed article](https://www.kaggle.com/discussions/general/493003)*
 ---
 **LLM Visulization** *[Visulization Transformers](https://bbycroft.net/llm)*
 ---
