@@ -103,3 +103,12 @@ Helping Material Notebooks
 
 **Notebook** *[Kaggle Notebook- FastAPI Docker RAG](https://www.kaggle.com/code/immuhammadumair/fastapi-docker)*
 ---
+
+***Agents***
+
+*  CrewAI
+*  langgraph
+
+**Notebook** *[CrewAI Notebook](https://www.kaggle.com/code/immuhammadumair/crewai)*
+---
+
