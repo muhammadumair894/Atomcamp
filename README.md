@@ -29,7 +29,7 @@ Helping Material Notebooks
 *  Generative vs. discriminative classifiers
 *  Understanding vector semantics 
 
-**Notebook** *[Kaggle Link](https://www.kaggle.com/code/immuhammadumair/advanced-classifiers-assignment))*
+**Notebook** *[Kaggle Link](https://www.kaggle.com/code/immuhammadumair/advanced-classifiers-assignment)*
 ---
 
 **TF-IDF**
